@@ -1,2 +1,7 @@
 this is a commit in feature branch
-f2
+f2 helllo 
+hi 
+bye 
+hi hi 
+hi
+
