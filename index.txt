@@ -1,3 +1,4 @@
+amend 
 this is a commit in feature branch
 f2 jsakjnxjkasnas
 f2 helllo 
